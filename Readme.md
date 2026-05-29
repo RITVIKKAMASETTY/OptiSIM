@@ -190,21 +190,6 @@ Makes complex medical knowledge accessible to a wider audience.
 
 Encourages collaboration between healthcare, AI, and immersive technology domains.
 
----
-
-## Project Team
-
-* **Khushbu Hajari** (1DS23AI034)
-* **Madhan Kumar R** (1DS23AI035)
-* **Ritvik K** (1DS23AI045)
-* **Sathwik Shetty** (1DS23AI050)
-
-Department of Artificial Intelligence & Machine Learning
-
-Dayananda Sagar College of Engineering, Bengaluru
-
----
-
 ## Conclusion
 
 OptiSim demonstrates how AR/VR, WebXR, computer vision, and biomedical visualization can be combined to create an immersive educational platform for ophthalmic surgery training and artificial vision awareness. By integrating cataract surgery simulation with advanced bionic eye visualization, the system provides a unique learning environment that improves understanding, accessibility, and engagement in ophthalmic education.
